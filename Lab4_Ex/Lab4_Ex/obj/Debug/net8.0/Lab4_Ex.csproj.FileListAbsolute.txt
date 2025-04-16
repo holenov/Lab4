@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\bin\Debug\net8.0\Lab4_Ex.exe
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\bin\Debug\net8.0\Lab4_Ex.deps.json
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\bin\Debug\net8.0\Lab4_Ex.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\bin\Debug\net8.0\Lab4_Ex.dll
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\bin\Debug\net8.0\Lab4_Ex.pdb
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.dll
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\refint\Lab4_Ex.dll
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.pdb
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\Lab4_Ex.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Lab4_Ex\Lab4_Ex\obj\Debug\net8.0\ref\Lab4_Ex.dll
